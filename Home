@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en-us">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Simply 60</title>
+    <link rel="stylesheet" href="../Simply 60/Test CSS.css" />
+    <style>
+body,h1,h2,h3,h4,h5,h6 {font-family: "Raleway", sans-serif}
+
+body, html {
+  height: 100%;
+  line-height: 1.8;
+}
+
+/* Full height image header */
+.bgimg-1 {
+  background-position: center;
+  background-size: cover;
+  background-image: url("/w3images/mac.jpg");
+  min-height: 100%;
+}
+
+.w3-bar .w3-button {
+  padding: 16px;
+}
+</style>
+</head>
+
+<body class="homepage">
+    <nav class="top-nav-light-container hover">
+        <ul class="top-nav-component add-space-right" role="menu">
+        <a href="Home.html" title="Home"> Home </a>
+        <a href="AboutUs.html" title="About Us"> About Us </a>
+        <a href="Schedule.html" title="Schedule"> Schedule </a>
+        </ul>
+    </nav>
+    <header class="MainHeader">
+        <img src="../Simply 60/Assests/S60.png">
+        <! --Insert the image-->
+    </header>
+</body>
